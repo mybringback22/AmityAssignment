@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amity Todo List</string>
+    <string name="api_error">MOCK API ERROR. Please try later</string>
+    <string name="server_error">CANNOT REACH SERVER NOW.</string>
+    <string name="no_data_msg">No Data Found</string>
+    <string name="status">Status:</string>
+    <string name="completed">Completed</string>
+    <string name="pending">Pending</string>
+</resources>
